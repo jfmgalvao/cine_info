@@ -8,7 +8,7 @@ function Header() {
             Cine Info
          </Link>
          <Link className="favoritos" to="/favoritos">
-            Meus Files
+            Meus Filmes
          </Link>
       </header>
    );
